@@ -5,7 +5,7 @@ required_environment_variables = [
 ]
 
 base_guild_id = '1253092552404631582'
-api_base_url = 'https://api.dscforum.com/v1'
+frontend_url = 'dscforum.com'
 
 [server]
 port = 3004
