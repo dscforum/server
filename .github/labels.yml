@@ -1,0 +1,15 @@
+- name: 'Bug'
+  color: '800000'
+  description: Issues related to bugs specifically in the backend codebase of Express.
+- name: 'BFeature'
+  color: '008080'
+  description: Requests or discussions related to new features in the Express backend.
+- name: 'Security'
+  color: 'FFA07A'
+  description: Issues concerning security vulnerabilities or improvements in the backend.
+- name: 'Database'
+  color: 'FF69B4'
+  description: Discussions or problems regarding database management in the backend.
+- name: 'Dependabot: Patch'
+  color: 'FFD700'
+  description: Pull requests opened by Dependabot to update dependencies.

@@ -1,0 +1,20 @@
+required_environment_variables = [
+  'MONGODB_URI'
+]
+
+base_guild_id = '1253092552404631582'
+api_base_url = 'https://api.dscforum.com/v1'
+
+[server]
+port = 3004
+
+[client]
+port = 3000
+
+[logger.levels]
+error = 'red'
+warn = 'yellow'
+info = 'blue'
+debug = 'grey'
+database = 'magenta'
+http = 'yellow'
