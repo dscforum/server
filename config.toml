@@ -1,5 +1,7 @@
 required_environment_variables = [
-  'MONGODB_URI'
+  'MONGODB_URI',
+  'CLERK_SECRET_KEY',
+  'CLERK_PUBLISHABLE_KEY'
 ]
 
 base_guild_id = '1253092552404631582'
